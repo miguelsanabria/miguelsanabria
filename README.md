@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Miguel%20Sanabria&fontSize=50&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Miguel%20Sanabria&fontSize=50&fontColor=fff&animation=fadeIn" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&width=460&lines=Frontend+Developer;React+%2B+Next.js+%2B+TypeScript;Dise%C3%B1o+y+c%C3%B3digo+en+armon%C3%ADa;Haciendo+cosas+bonitas+con+c%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=2563EB&center=true&vCenter=true&width=460&lines=Frontend+Developer;React+%2B+Next.js+%2B+TypeScript;Dise%C3%B1o+y+c%C3%B3digo+en+armon%C3%ADa;Haciendo+cosas+bonitas+con+c%C3%B3digo" alt="Typing SVG" />
 </p>
 
 ---
@@ -66,12 +66,12 @@ Explorando constantemente nuevas herramientas, patrones de diseño y formas de h
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelsanabria&show_icons=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=333&bg_color=f8f9ff&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria&layout=compact&title_color=8B5CF6&text_color=333&bg_color=f8f9ff&hide_border=true&hide_title=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelsanabria&show_icons=true&title_color=2563EB&icon_color=2563EB&text_color=333&bg_color=f8f9ff&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria&layout=compact&title_color=2563EB&text_color=333&bg_color=f8f9ff&hide_border=true&hide_title=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=miguelsanabria&hide_border=true&background=f8f9ff&ring=8B5CF6&fire=8B5CF6&currStreakNum=333&sideNums=333&dates=999&sideLabels=8B5CF6&currStreakLabel=8B5CF6" height="170" />
+  <img src="https://streak-stats.demolab.com?user=miguelsanabria&hide_border=true&background=f8f9ff&ring=2563EB&fire=2563EB&currStreakNum=333&sideNums=333&dates=999&sideLabels=2563EB&currStreakLabel=2563EB" height="170" />
 </p>
 
 ---
@@ -113,11 +113,11 @@ Explorando constantemente nuevas herramientas, patrones de diseño y formas de h
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miguelsanabria&color=8B5CF6&style=flat-square&label=👀+visitas" />
+  <img src="https://komarev.com/ghpvc/?username=miguelsanabria&color=2563EB&style=flat-square&label=👀+visitas" />
 </p>
 
 <p align="center">
