@@ -66,12 +66,14 @@ Explorando constantemente nuevas herramientas, patrones de diseño y formas de h
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelsanabria&show_icons=true&title_color=2563EB&icon_color=2563EB&text_color=333&bg_color=f8f9ff&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria&layout=compact&title_color=2563EB&text_color=333&bg_color=f8f9ff&hide_border=true&hide_title=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelsanabria&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=miguelsanabria&hide_border=true&background=f8f9ff&ring=2563EB&fire=2563EB&currStreakNum=333&sideNums=333&dates=999&sideLabels=2563EB&currStreakLabel=2563EB" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelsanabria&theme=default" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguelsanabria&theme=default" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelsanabria&theme=default" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguelsanabria&theme=default" height="170" />
 </p>
 
 ---
