@@ -71,10 +71,6 @@ I build modern, functional and visually appealing web interfaces. I believe well
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=miguelsanabria&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=transparent&title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff&border_color=30363d" />
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=miguelsanabria&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=transparent&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=e4e2e2" alt="stats" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria&layout=compact&hide_title=true&theme=transparent&title_color=58a6ff&text_color=e6edf3&border_color=30363d" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria&layout=compact&hide_title=true&theme=transparent&title_color=0969da&text_color=1f2328&border_color=e4e2e2" alt="top languages" />
-  </picture>
 </p>
 
 <p align="center">
