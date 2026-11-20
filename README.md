@@ -2,23 +2,21 @@
 
 # Miguel Sanabria
 
-**Frontend Developer** · Tepatitlán, Jalisco, México
+**Frontend Developer** · Tepatitlán, Jalisco, Mexico
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=520&lines=Frontend+Developer;React+%2B+Next.js+%2B+TypeScript;Clean+code%2C+clean+UI;Construyendo+salud+digital+%F0%9F%A6%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=520&lines=Frontend+Developer;React+%2B+Next.js+%2B+TypeScript;Clean+code%2C+clean+UI;Building+digital+health+%F0%9F%A6%B7)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre mí · _About me_
+### 👨‍💻 About me
 
-Construyo interfaces web modernas, funcionales y visualmente atractivas. Creo que el código bien escrito transforma la forma en que las personas experimentan la tecnología.
-
-_I build modern, functional and visually appealing web interfaces — currently focused on **digital health** 🏥 and **smart dentistry** 🦷._
+I build modern, functional and visually appealing web interfaces. I believe well-written code can transform the way people experience technology — currently focused on **digital health** 🏥 and **smart dentistry** 🦷.
 
 ---
 
-### 🛠️ Tecnologías · _Stack_
+### 🛠️ Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,47 +25,46 @@ _I build modern, functional and visually appealing web interfaces — currently 
 </p>
 
 <details>
-<summary>Ver detalle · <i>View detail</i></summary>
+<summary>View detail</summary>
 
-| Área · Area | Herramientas · Tools |
+| Area | Tools |
 | --- | --- |
 | Frontend | React 19 · Next.js 16 · TypeScript · Tailwind CSS v4 |
-| Estilos · Styling | CSS3 · Sass · Framer Motion |
-| Backend | Node.js · Server Actions · APIs REST |
+| Styling | CSS3 · Sass · Framer Motion |
+| Backend | Node.js · Server Actions · REST APIs |
 | DevOps | Git · Vercel · Railway · Docker |
 
 </details>
 
 ---
 
-### 📂 Proyectos · _Projects_
+### 📂 Projects
 
-| Proyecto · Project | Descripción · Description | Stack |
+| Project | Description | Stack |
 | --- | --- | --- |
-| 🦷 **Odontología Avanzada** | Landing para clínica dental con concepto de *Pasaporte Digital*. Glassmorphism, animaciones por scroll y despliegue standalone. | Next.js 16 · React 19 · Tailwind v4 · Railway |
-| 🏥 **Salud Digital** | Plataforma de gestión de pacientes: identidad digital, historial clínico y acompañamiento post-operatorio 24/7. | React · TypeScript · Node.js |
+| 🦷 **Advanced Dentistry** | Landing page for a dental clinic built around a *Digital Passport* concept. Glassmorphism, scroll animations and a standalone deployment. | Next.js 16 · React 19 · Tailwind v4 · Railway |
+| 🏥 **Digital Health** | Patient management platform with digital identity, automated clinical records and 24/7 post-operative support. | React · TypeScript · Node.js |
 
-> *Algunos repositorios son privados por contrato. Si quieres conocer más, con gusto te cuento.*
-> <sub>_Some repos are private by contract — happy to share more._</sub>
+> *Some repos are private by contract — happy to share more if you're interested.*
 
 ---
 
-### 💼 Experiencia · _Experience_
+### 💼 Experience
 
-| Período · Period | Rol / Proyecto |
+| Period | Role / Project |
 | --- | --- |
-| 2026 — Actual · _Present_ | Ecosistemas digitales para salud y odontología |
-| 2025 — 2026 | Freelance frontend con React y Next.js |
-| 2024 — 2025 | Inicio en desarrollo web y tecnologías modernas |
+| 2026 — Present | Digital ecosystems for healthcare and dentistry |
+| 2025 — 2026 | Frontend freelance with React and Next.js |
+| 2024 — 2025 | Started in web development and modern technologies |
 
-### 🎓 Formación · _Education_
+### 🎓 Education
 
-- **Universidad de Guadalajara** — Sistemas / áreas afines
-- **Autodidacta** — React, Next.js, TypeScript, diseño UI
+- **University of Guadalajara** — Systems / related areas
+- **Self-taught** — React, Next.js, TypeScript, UI design
 
 ---
 
-### 📊 Estadísticas · _GitHub Stats_
+### 📊 GitHub Stats
 
 <p align="center">
   <picture>
@@ -89,7 +86,7 @@ _I build modern, functional and visually appealing web interfaces — currently 
 
 ---
 
-### 📫 Contacto · _Contact_
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:miguel.sanabria@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
@@ -99,9 +96,9 @@ _I build modern, functional and visually appealing web interfaces — currently 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miguelsanabria&style=flat-square&color=0969da&label=Visitas" alt="visitas" />
+  <img src="https://komarev.com/ghpvc/?username=miguelsanabria&style=flat-square&color=0969da&label=Views" alt="views" />
 </p>
 
 <p align="center">
-  <sub>Gracias por pasar — que tengas un lindo día ✨ · _Thanks for stopping by_</sub>
+  <sub>Thanks for stopping by — have a lovely day ✨</sub>
 </p>
