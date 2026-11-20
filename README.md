@@ -70,19 +70,21 @@ _I build modern, functional and visually appealing web interfaces — currently 
 ### 📊 Estadísticas · _GitHub Stats_
 
 <p align="center">
-  <!-- dark mode -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=miguelsanabria&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=transparent&title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff&border_color=30363d#gh-dark-mode-only" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria&layout=compact&hide_title=true&theme=transparent&title_color=58a6ff&text_color=e6edf3&border_color=30363d#gh-dark-mode-only" alt="top languages" />
-  <!-- light mode -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=miguelsanabria&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=transparent&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=e4e2e2#gh-light-mode-only" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria&layout=compact&hide_title=true&theme=transparent&title_color=0969da&text_color=1f2328&border_color=e4e2e2#gh-light-mode-only" alt="top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=miguelsanabria&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=transparent&title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff&border_color=30363d" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=miguelsanabria&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=transparent&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=e4e2e2" alt="stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria&layout=compact&hide_title=true&theme=transparent&title_color=58a6ff&text_color=e6edf3&border_color=30363d" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria&layout=compact&hide_title=true&theme=transparent&title_color=0969da&text_color=1f2328&border_color=e4e2e2" alt="top languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <!-- dark mode -->
-  <img src="https://streak-stats.demolab.com/?user=miguelsanabria&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=f0883e&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=e6edf3#gh-dark-mode-only" alt="streak" />
-  <!-- light mode -->
-  <img src="https://streak-stats.demolab.com/?user=miguelsanabria&theme=transparent&hide_border=true&stroke=0969da&ring=0969da&fire=f0883e&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=1f2328&sideLabels=1f2328&dates=1f2328#gh-light-mode-only" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=miguelsanabria&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=f0883e&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=e6edf3" />
+    <img src="https://streak-stats.demolab.com/?user=miguelsanabria&theme=transparent&hide_border=true&stroke=0969da&ring=0969da&fire=f0883e&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=1f2328&sideLabels=1f2328&dates=1f2328" alt="streak" />
+  </picture>
 </p>
 
 ---
